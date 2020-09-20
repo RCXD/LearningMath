@@ -1,7 +1,7 @@
 # College math : word note
-[디스코드 채널](https://discord.gg/kMd3MK)
-[수학 용어 정리집](/TexasAnMStudy/참고자료/수학용어 정리_vstudy.pdf)
+[디스코드 채널](https://discord.gg/kMd3MK)  
 ## Reference
+1. 수학용어 정리집 : [Ref1](/TexasAnMStudy/Math\ Words/MathWords_vstudy.pdf)  
 # Day01, Chapter 1
 Logarithm : 로그  
 Function : 함수  
