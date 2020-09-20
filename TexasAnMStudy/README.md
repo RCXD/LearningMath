@@ -8,7 +8,16 @@
 
 ### 3. 심화 학습노트
 #### 예시
-1. 
+~~~
+1. Calculus : Taylor Series
+   1. Basic Formula
+   2. Usefull Links
+   3. Advanced Formula
+   4. Theorems
+   5. Media
+   6. References
+   7. Easy to miss concepts
+~~~
 
 ### 4. 연구노트
 #### 유용한 링크
