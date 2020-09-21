@@ -6,7 +6,7 @@
 ## Theorem
 
 ## Sample Test
-![Ipython Notebook]()
+[Ipython Notebook](8th-4_SampleTest.ipynb)
 
 ## Utilities
 ### [Ref1](https://raw.githubusercontent.com/RCXD/LearningProgrammingLanguages/master/Helpful%20Knowledges/LateX_Info.md)
