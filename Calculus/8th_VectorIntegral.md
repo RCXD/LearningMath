@@ -9,8 +9,6 @@
 [Ipython Notebook](8th-4_SampleTest.ipynb)
 
 ## Utilities
-### [Ref1](https://raw.githubusercontent.com/RCXD/LearningProgrammingLanguages/master/Helpful%20Knowledges/LateX_Info.md)
-1. This one failed
-### [Ref2](https://github.com/RCXD/LearningProgrammingLanguages/blob/master/Helpful_Knowledges/LateX_Info.md)
-1. [stack](https://stackoverflow.com/questions/7653483/github-relative-link-in-markdown-file) said this is currect, but...  
-2. 
+1.  [Reference : markdown, LaTeX](https://github.com/RCXD/LearningProgrammingLanguages/blob/master/Helpful_Knowledges/LateX_Info.md)
+    1. [stack](https://stackoverflow.com/questions/7653483/github-relative-link-in-markdown-file)
+2.  [codecogs](https://www.codecogs.com/latex/eqneditor.php)
