@@ -9,4 +9,5 @@
 ![Ipython Notebook]()
 
 ## Utilities
-### [Reference](../../LearningProgrammingLanguages/Helpful Knowledges/LateX_Info.md)
+### [Ref1](https://raw.githubusercontent.com/RCXD/LearningProgrammingLanguages/master/Helpful%20Knowledges/LateX_Info.md)
+### [Ref2](https://github.com/RCXD/LearningProgrammingLanguages/master/Helpful%20Knowledges/LateX_Info.md)
