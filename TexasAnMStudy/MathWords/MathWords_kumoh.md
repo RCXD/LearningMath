@@ -1,5 +1,8 @@
 # 수학 영어 용어사전
 
+## [자동 검색 DB](file:///C:/Users/tpxdk/Downloads/mathdic.html#cha)
+아래에서 Ctrl+F 하거나, 위 링크에서 검색
+
 ## [출처](http://semtle.kumoh.ac.kr/~jindongp/tt/345)
  
 
